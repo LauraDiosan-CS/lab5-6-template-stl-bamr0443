@@ -1,0 +1,13 @@
+﻿  Repo.cpp
+  RepoFile.cpp
+  Service.cpp
+D:\Fac\Pr.Or.Ob\lab 7 (tema)\Service.cpp(70,28): warning C4244: 'argument': conversion from '__int64' to 'size_t', possible loss of data
+D:\Fac\Pr.Or.Ob\lab 7 (tema)\Service.cpp(168,28): warning C4244: 'argument': conversion from '__int64' to 'size_t', possible loss of data
+D:\Fac\Pr.Or.Ob\lab 7 (tema)\Service.cpp(189,28): warning C4244: 'argument': conversion from '__int64' to 'size_t', possible loss of data
+  Source.cpp
+  testRepo.cpp
+  testService.cpp
+  UI.cpp
+  Generating Code...
+D:\Fac\Pr.Or.Ob\lab 7 (tema)\Service.cpp(238): warning C4715: 'Service::functionalitate1': not all control paths return a value
+  lab 7 (tema).vcxproj -> D:\Fac\Pr.Or.Ob\lab 7 (tema)\Debug\lab 7 (tema).exe
